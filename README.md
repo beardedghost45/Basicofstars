@@ -1,4 +1,4 @@
-# BASICS 
+# UNDER DEVELOPMENT WILL SOON GET ALL FOR DATA STRUCTURE
 ## ass1sem2
 -1:Infix to postfix
 -2:Infix to Prefix
